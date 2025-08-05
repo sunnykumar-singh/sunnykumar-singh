@@ -1,4 +1,4 @@
-## 👋Hi there, I'M Sunny kumar Singh !
+## 👋Hi there, I'm Sunny kumar Singh !
 🎓 Recent Completed MCA @ Brainware University (2025)  
 📊 Aspiring Software Developer | Java • SQL • Android <br>
 📍 Kolkata, India
