@@ -1,6 +1,6 @@
 ## 👋Hi there, I'm Sunny kumar Singh !
 🎓 MCA Graduate @ Brainware University (2025)  
-📊 Aspiring Software Developer | Java • SQL • Android <br>
+📊  Software Development Enthusiast | Java • ReactJS • SQL • Android <br>
 📍 Kolkata, India
 
 
