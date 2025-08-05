@@ -15,7 +15,7 @@ I'm a dedicated software developer with hands-on experience in Java, ReactJS, an
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnykumarsingh045/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/justsunnyyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][Email Me](mailto:sunnykumarsingh045@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnykumarsingh045/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/justsunnyyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnykumarsingh045@gmail.com) 
 
 
 ---
