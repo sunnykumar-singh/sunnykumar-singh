@@ -38,6 +38,15 @@ I'm a dedicated software developer with hands-on experience in Java, ReactJS, an
 ---
 
 
+## 🎓 Certifications
+- **Advanced Software Engineering Job Simulation** – [Certificate](https://drive.google.com/file/d/12J3awlEmxTwmruq1CFVjtElof58b7see/view?usp=drive_link)
+- **0-100 Full-Stack Web Development Course** – [Certificate](https://drive.google.com/file/d/1xZXTqDiQGvDYK2LVL5hgtXikxcvUVhzZ/view?usp=drive_link)  
+- **Internship Program at Webguru Infosystem - Android Development** (Nov 2024 - Jan 2025) – [Certificate](https://drive.google.com/file/d/1wiOSD7Pj0YCVD4nB3aUokyJ1RByQVGII/view?usp=drive_link)
+
+
+---
+
+
 *Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities. 🚀*
 <!--[![](https://visitcount.itsvg.in/api?id=sunnykumar-singh&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
