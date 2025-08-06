@@ -2,7 +2,7 @@
 🎓 MCA Graduate @ Brainware University (2025)  
 📊  Software Development Enthusiast | Java • ReactJS • SQL • Android <br>
 📍 Kolkata, India <br>
-🗂️ [Resume](https://drive.google.com/file/d/1cX5ogtNaa_2pqBy6UVDtw_9kOCtDwai1/view?usp=drive_link)
+🗂️ [Resume](https://drive.google.com/file/d/1Iha_7dR6vYGUK2rDxo7r6CUuxZVHUvhj/view?usp=drive_link)
 
 
 ---
