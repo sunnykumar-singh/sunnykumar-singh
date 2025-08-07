@@ -47,7 +47,7 @@ I'm a dedicated software developer with hands-on experience in Java, ReactJS, an
 ---
 
 
-*Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities. 🚀*
+*Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities.🚀*
 <!--[![](https://visitcount.itsvg.in/api?id=sunnykumar-singh&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
