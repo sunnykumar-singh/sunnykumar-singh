@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me 
-I'm a dedicated software developer with hands-on experience in Java, ReactJS, and MySQL. I enjoy building clean, user-focused Android and web applications that solve real-world problems. Currently seeking opportunities where I can contribute, learn, and grow as part of a dynamic development team.
+Detail-oriented and adaptable MCA student specializing in Android Development, Web Applications, and Data-Driven Solutions. Skilled in Java, ReactJS, SQL, and UI frameworks with hands-on experience in building responsive applications and integrating APIs. Passionate about solving real-world problems through clean, efficient code and delivering user-friendly experiences.
 
 
 ---
