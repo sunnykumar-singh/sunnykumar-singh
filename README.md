@@ -41,7 +41,7 @@ Detail-oriented and adaptable MCA student specializing in Android Development, W
 ## 🎓 Certifications
 - **Advanced Software Engineering Job Simulation** – [Certificate](https://drive.google.com/file/d/12J3awlEmxTwmruq1CFVjtElof58b7see/view?usp=drive_link)
 - **0-100 Full-Stack Web Development Course** – [Certificate](https://drive.google.com/file/d/1xZXTqDiQGvDYK2LVL5hgtXikxcvUVhzZ/view?usp=drive_link)  
-- **Internship Program at Webguru Infosystem - Android Development** (Nov 2024 - Jan 2025) – [Certificate](https://drive.google.com/file/d/1wiOSD7Pj0YCVD4nB3aUokyJ1RByQVGII/view?usp=drive_link)
+- **Internship at Webguru Infosystem - Android Development** (Nov 2024 - Jan 2025) – [Certificate](https://drive.google.com/file/d/1wiOSD7Pj0YCVD4nB3aUokyJ1RByQVGII/view?usp=drive_link)
 
 
 ---
