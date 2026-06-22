@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # hi, i'm sunny
@@ -101,4 +100,3 @@ Console-based ticket management system using JDBC.
 ### "code. build. grow."
 
 </div>
-```
