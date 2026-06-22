@@ -1,93 +1,104 @@
+```md
 <div align="center">
 
-# hi, i'm sunny 👋
+# hi, i'm sunny
 
-### MCA Graduate • Java Developer • Android Developer • ReactJS
+### java developer / android developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Java+Developer;Android+Developer;Building+EsportsBuzzz;ReactJS+%7C+MySQL+%7C+Firebase" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+real-world+projects;java+%7C+android+%7C+reactjs;currently+building+esportsbuzzz" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 MCA Graduate from Brainware University
-- 💻 Passionate about Java & Android Development
-- ⚡ Building **EsportsBuzzz**
-- 🌱 Learning Spring Boot & System Design
-- 📍 India
-
----
-
-# 📊 GitHub Stats
+# 💻 tech stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sunnykumar-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,androidstudio,react,js,html,css,mysql,firebase,git,github,vscode" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykumar-singh&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+---
+
+# 📂 featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📱 Expense Tracker App
+
+Android expense tracker with Realm DB and MVVM architecture.
+
+`Java` `Android` `RealmDB` `MVVM`
+
+</td>
+
+<td width="50%">
+
+## 📊 Crypto Dashboard
+
+Responsive crypto dashboard built using ReactJS and Chakra UI.
+
+`ReactJS` `JavaScript` `Chakra UI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+Desktop application to manage hospital records using Java and MySQL.
+
+`Java` `MySQL` `Swing`
+
+</td>
+
+<td width="50%">
+
+## 🎫 Helpdesk Ticket System
+
+Console-based ticket management system using JDBC.
+
+`Java` `JDBC` `MySQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✨ other projects
+
+- 📌 Notes App  
+- 📌 Weather App  
+- 📌 Portfolio Website  
+- 📌 KeyLogger Android App  
+
+---
+
+# 🌐 connect
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunnykumarsingh045)
+
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunnykumar-singh)
 
 </div>
 
 ---
 
-# 💻 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,js,html,css,mysql,firebase,androidstudio,git,github,vscode" />
+### "code. build. grow."
 
 </div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar-singh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Featured Projects
-
-### 📌 Crypto Dashboard
-Responsive crypto dashboard built using ReactJS & Chakra UI.
-
-### 📌 Expense Tracker App
-Android expense manager with Realm DB & MVVM architecture.
-
-### 📌 Hospital Management System
-Java + MySQL desktop application.
-
-### 📌 Helpdesk Ticket System
-Console-based ticket management using JDBC.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sunnykumarsingh045">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/sunnykumar-singh">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://x.com/justsunnyyyyy">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
-</a>
-</p>
-
----
-
-<div align="center">
-
-### ✨ "Code. Build. Grow."
-
-</div>
+```
