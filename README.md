@@ -24,7 +24,7 @@
 
 * [EMS](https://github.com/sunnykumar-singh/employee-management-system): A Full-Stack Employee Management System built with React, Spring Boot, PostgreSQL, and JWT Authentication.
 * [Panchayat](https://github.com/sunnykumar-singh/panchayat-app): React-Native app for society management with AI-powered chat & voice assistant.
-* [Helpdesk ticket system]https://github.com/sunnykumar-singh/helpdesk-ticket-system): Console-based Helpdesk Ticket Management System.
+* [Helpdesk ticket system](https://github.com/sunnykumar-singh/helpdesk-ticket-system): Console-based Helpdesk Ticket Management System.
 \---
 
 <br>
